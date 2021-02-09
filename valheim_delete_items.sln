@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1300
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "valheim_delete_items", "valheim_delete_items\valheim_delete_items.csproj", "{09D6881E-F1DC-4747-A63D-6B5CC1569022}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09D6881E-F1DC-4747-A63D-6B5CC1569022}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09D6881E-F1DC-4747-A63D-6B5CC1569022}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09D6881E-F1DC-4747-A63D-6B5CC1569022}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09D6881E-F1DC-4747-A63D-6B5CC1569022}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5DB7E254-5BC0-4940-BBC5-976C8290FEB5}
+	EndGlobalSection
+EndGlobal
